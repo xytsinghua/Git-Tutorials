@@ -1,1 +1,1 @@
-qweq
+print('hello')
